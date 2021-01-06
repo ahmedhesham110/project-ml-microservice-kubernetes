@@ -1,7 +1,7 @@
-#Operationalize-a-Machine-Learning-Microservice-API
+# Operationalize-a-Machine-Learning-Microservice-API
 
 [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
-###This repository has been verified with CircleCI
+### This repository has been verified with CircleCI
 
 ## Project Overview
 
